@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(244, 244, 248);
+}
+.all div{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    inline-size: 200px;
+    margin-left: 900px;
+    border: 2px solid rgb(229, 233, 229);
+    box-shadow: 2px 3px 5px rgb(73, 51, 51);
+}
+
+.div1{
+    margin-top: 300px;
+}
+.div2{
+    margin: 10px;
+}
+.div3{
+    margin: 10px;
+}
+button{
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+button{
+    padding-left: 5px;
+    padding: 7px;
+    background-color: rgb(9, 109, 9);
+}
+input{
+    padding-right: 200px;
+    border-radius: 5px;
+    padding: 5px;
+}
+.div10{
+    opacity: 0.5;
+    background-color: rgb(194, 233, 155);
+    margin-top: 100px;
+}
+.div6{
+    margin-left: 100px;
+    color: rgb(59, 196, 196);
+    font-size: 70px;
+    font-weight: bold;
+}
+.div7{
+    margin-left: 100px;
+    color: rgb(85, 79, 79);
+    width: 1200px;
+    font-size: 30px;
+}
+
+.Get{
+    margin-left: 100px;
+    background-color: darkgoldenrod;
+    color: white;
+    font-weight: bold;
+    border-radius: 70px;
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    margin: auto;
+}
+img{
+    width: 30%;
+    margin-left: 10px; 
+}
+.fa-solid.fa-xmark{
+    justify-content: center;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
